@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)](https://rishavchanda.io)
 <h1 align="center">Hola 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar1912&label=Profile%20views&color=0e75b6&style=flat" alt="omar1912" /> </p>
-<img align="right" alt="Coding" width="300" src=https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif>
+<img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
